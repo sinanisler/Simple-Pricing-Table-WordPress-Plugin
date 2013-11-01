@@ -12,12 +12,13 @@ WordPress Simple Pricing Table - WordPress  Fiyat Tablosu Eklentisi.
 - Powerfull
 - God Damn This is Good. -_-
 
-
-  [price title="başlik örnek test" price="100 TL" color="00ffff"] 
-  Açıklamalar
-  paket detayları
-  satılan şeyin detayları felan filan
-  burası html yer <br> 
-  ne bilim <h1>asdfasd</h1>
-  gibi..
-  [/price]
+```
+[price title="başlik örnek test" price="100 TL" color="00ffff"] 
+Açıklamalar
+paket detayları
+satılan şeyin detayları felan filan
+burası html yer <br> 
+ne bilim <h1>asdfasd</h1>
+gibi..
+[/price]
+```
