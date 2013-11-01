@@ -27,3 +27,4 @@ gibi..
 **Örnek - Example**
 - http://noteprex.com/backlink/backlink-paketleri/sosyal-imleme/
 
+![Table Example - Örnek Tablo](pricingtable.jpg "Table Example - Örnek Tablo")
