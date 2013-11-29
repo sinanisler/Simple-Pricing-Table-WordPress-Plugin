@@ -8,8 +8,11 @@ WordPress Simple Pricing Table - WordPress  Fiyat Tablosu Eklentisi.
 - Fiyat - Price
 - Renk - Color
 - Açıklama HTML Kod Girilebilir - Description You can add HTML Codes
+- HTML li elementiyle list yapısı kurabilrisiniz.
+- Yada basitçe listenizi 1,2,3 gibi sıralayabilirsiniz
 - Easy
 - Powerfull
+- Limitless
 - God Damn This is Good. -_-
 
 ```
