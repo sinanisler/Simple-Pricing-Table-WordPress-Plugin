@@ -1,7 +1,7 @@
 Simple-Pricing-Table-WordPress-Plugin
 =====================================
 
-WordPress Simple Pricing Table - WordPress  Fiyat Tablosu Eklentisi. 
+WordPress Simple Pricing Table - WordPress  Fiyat Tablosu Eklentisi.
 
 **Özellikler**
 - Başlık - Title
